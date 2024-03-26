@@ -16,9 +16,9 @@ body {
 }
 
 .conteudo-principal{
-   displya: flex;
+   display: flex;
    flex-direction: column;
    justify-content: center;
    align-items: center;
-   
+
 }

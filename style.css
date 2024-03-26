@@ -16,7 +16,7 @@ body {
 }
 
 
-.conteudo-principal{
+.conteudo-principal {
    display: flex;
    flex-direction: column;
    justify-content: center;

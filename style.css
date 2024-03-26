@@ -18,4 +18,5 @@ body {
 .conteudo-principal{
    displya: flex;
    flex-direction: column;
+   justify-content: center;
 }

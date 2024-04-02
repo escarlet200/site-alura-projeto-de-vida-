@@ -41,4 +41,6 @@ body {
    color: var(--branco);
    display: flex;
    justify-content: cente;
+   padding: 1em;
+   font-size: 18px;
 }

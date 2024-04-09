@@ -5,5 +5,4 @@ for(let i=0;i <botoes.length;i++){
         botoes(i).classlist.add("ativo");
     }
     console.log();
-
 }

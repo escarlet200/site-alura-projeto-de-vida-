@@ -66,8 +66,10 @@ body {
    border-bottom: 4px solid var(--verde);
 
 }
+.abas-texos{
+   backgroud-color:var(--texto-fundo);
 
-backgroud-color: ::var(--texto-fundo);
+}
 
 @media screen and (min-width: 768px){
    .botoes{ 

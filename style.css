@@ -66,6 +66,9 @@ body {
    border-bottom: 4px solid var(--verde);
 
 }
+
+backgroud-color: ::var(--texto-fundo);
+
 @media screen and (min-width: 768px){
    .botoes{ 
    display: flex;
